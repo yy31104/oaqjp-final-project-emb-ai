@@ -14,23 +14,6 @@ This project is a simple web application that detects emotions from text using t
 - Flask web deployment with provided UI (`templates/index.html`, `static/mywebscript.js`)
 - Unit tests included
 
-## Project Structure
-```
-
-.
-├── EmotionDetection/
-│   ├── **init**.py
-│   └── emotion_detection.py
-├── static/
-│   └── mywebscript.js
-├── templates/
-│   └── index.html
-├── server.py
-├── test_emotion_detection.py
-├── README.md
-├── LICENSE
-└── .gitignore
-
 ````
 
 ## Emotion Detection Package
